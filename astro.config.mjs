@@ -8,7 +8,8 @@ import { SITE_URL } from "./src/data/config";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), sitemap(), robotsTxt()],
-  site: SITE_URL,
+  site: 'https://msk1039.github.io',
+  // base: 'my-repo',
   markdown: {
     syntaxHighlight: "shiki",
     shikiConfig: {
