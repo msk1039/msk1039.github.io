@@ -9,7 +9,7 @@ import { SITE_URL } from "./src/data/config";
 export default defineConfig({
   integrations: [tailwind(), sitemap(), robotsTxt()],
   site: 'https://msk1039.github.io',
-   base: '/portfolio-website1/src/pages',
+  //  base: '',
   markdown: {
     syntaxHighlight: "shiki",
     shikiConfig: {
