@@ -1,7 +1,7 @@
 ---
-title: "Untitled"
+title: "coming soon"
 publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
+description: "coming soon"
 slug: "untitled"
 isPublish: true
 ---
